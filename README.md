@@ -10,4 +10,4 @@
 
 
 ---
-+ [edir](https://github.com/plainshell/python/edit/main/README.md)
++ [edit](https://github.com/plainshell/python/edit/main/README.md)
